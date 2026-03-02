@@ -1,7 +1,4 @@
-#Project Title :
-E-Commerce Sales Performance Analysis (Power BI)
-________________________________________
-#Project Overview
+Project Overview
 
 This project analyses an e-commerce dataset containing Customers details, Orders details, Return details, and Monthly Sales Targets. 
 
@@ -14,7 +11,7 @@ Through this project you will get an Insight regarding:
 
 The dashboard and reports are built using Power BI and focuses on delivering business insights for decision-making.
 ________________________________________
-#Business Problem
+1. Business Problem
 
 The business wants to understand:
 - Which regions and categories drive the highest revenue?
@@ -22,7 +19,7 @@ The business wants to understand:
 - Whether monthly sales targets are being achieved?
 - What percentage of customers are repeat buyers?
 ________________________________________
-#Dataset Description
+2. Dataset Description
 
 The project uses four tables:
 
@@ -49,7 +46,7 @@ The project uses four tables:
    - Month
    - Monthly Sales Target
 ________________________________________
-#Data Modelling
+3. Data Modelling
 
 - Created a Calendar table for time intelligence
 - Built relationships:
@@ -57,9 +54,10 @@ ________________________________________
   - Orders → Returns (Order ID)
   - Calendar → Orders (Order Date)
   - Calendar → Targets (Month)
+  ![image alt ](https://github.com/kh83harsh-afk/Data-Analysis-Project/blob/main/Data%20Modeling%20Screenshot.png?raw=true)
  
 ________________________________________
-#KPIs Created
+4.  KPIs Created
 Key Metrics & DAX Measures
 
 - Total Sales
@@ -76,13 +74,12 @@ Key Metrics & DAX Measures
 - Monthly Target Missed by %
 - Repeat vs Unique Customers
 ________________________________________
-#Dashboard
+5.  Dashboard
    - Sales vs Profit
    - Profit by Region
    - Profit  after return (Category-wise)
    - Months sale which are nearest to Target.
-________________________________________
-#Reports Created
+6. Reports Created
 
 1. Sales Performance Report
    - Sales by Category
@@ -108,7 +105,7 @@ ________________________________________
    - Sales by State and City
    - Profit by City 
 ________________________________________
-#Skills Used
+7.  Skills Used
 
 - Power BI
 - DAX
@@ -116,5 +113,6 @@ ________________________________________
 - Business KPI Development
 - Dashboard Design
 ________________________________________
-#Screenshot
+8.  Screenshot
+ 
 ![image alt](https://github.com/kh83harsh-afk/Data-Analysis-Project/blob/a3ac0bb7091eb897142850e684d9bf4e721d4609/E-commerce_Performance_Dashboard.png)
