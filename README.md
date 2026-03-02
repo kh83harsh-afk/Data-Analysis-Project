@@ -20,6 +20,7 @@ The business wants to understand:
 - What percentage of customers are repeat buyers?
 ________________________________________
 2. Dataset Description
+3. <a href="https://github.com/kh83harsh-afk/Data-Analysis-Project/blob/main/Dataset.xlsx">Dataset</a>
 
 The project uses four tables:
 
