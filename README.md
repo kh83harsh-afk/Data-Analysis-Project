@@ -117,5 +117,4 @@ ________________________________________
 - Dashboard Design
 ________________________________________
 #Screenshot
-<img width="1326" height="748" alt="E-commerce_Performance_Dashboard" src="https://github.com/user-attachments/assets/10271fa5-ab07-43b5-8e4a-0e219ab87b3a" />
-
+![image alt](https://github.com/kh83harsh-afk/Data-Analysis-Project/blob/a3ac0bb7091eb897142850e684d9bf4e721d4609/E-commerce_Performance_Dashboard.png)
